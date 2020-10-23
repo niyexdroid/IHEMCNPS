@@ -1,2 +1,2 @@
 # IHEMCNPS
-This is an Education site designed for building website
+This is an Education site designed for checking student result 
