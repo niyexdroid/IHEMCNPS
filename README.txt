@@ -4,6 +4,12 @@ Version: PRO (Nulled) 3.9.0
 Documentation:
 https://mdbootstrap.com/docs/standard/
 
+git constant used commands
+# git pull origin main - update local repo
+# git status - to check modified files
+# git commit -m "message here" - to stage before push
+# git push origin main - push updates
+
 How to Bypass PRO documentation (Read the tutorial on the forum):
 https://babiato.co/resources/mdbootstrap-5-pro-mdb5-standard.13435/
 
